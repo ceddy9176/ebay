@@ -658,3 +658,91 @@ h4 {
   border: 1px solid darkgray;
   box-shadow: 7px 5px 18px -8px;
 }
+
+.info h2 {
+  margin-left: 15px
+}
+.info h4 {
+  margin-left: 15px
+}
+.info p {
+  margin-left: 15px;
+  margin-top: -14px;
+  font-size: smaller;
+  border-bottom: 1px dotted;
+  padding-bottom: 17px;
+}
+
+.info-2 {
+  margin-left: 15px;
+  line-height: 35px;
+}
+
+.info-2 a {
+  text-decoration: none;
+  color: steelblue;
+}
+
+.other-info {
+  margin-left: 140px;
+  border-bottom: 1px dotted;
+  margin-right: 450px;
+}
+
+.other-info span {
+  color: black;
+}
+
+.other-info p {
+  color: darkgray;
+}
+.delivery {
+  margin-left: 140px;
+  border-bottom: 1px dotted;
+  margin-right: 450px;
+}
+
+.delivery span {
+  color: black;
+}
+
+.delivery p {
+  color: darkgray;
+}
+.returns {
+  margin-left: 140px;
+  border-bottom: 1px dotted;
+  margin-right: 450px;
+}
+
+.returns span {
+  color: black;
+}
+
+.returns p {
+  color: darkgray;
+}
+.guarantee {
+  margin-left: 140px;
+  border-bottom: 1px dotted;
+  margin-right: 450px;
+}
+
+img#mbg {
+  width: 150px;
+  height: auto;
+  margin-top: -16px;
+  position: absolute;
+  z-index: 7;
+}
+
+.guarantee span {
+  color: black;
+  padding-top: 18px;
+  display: block;
+}
+
+.guarantee p {
+  color: darkgray;
+  margin-top: 10px;
+}

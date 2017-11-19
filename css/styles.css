@@ -500,6 +500,11 @@ select#gh-cat {
   margin-top: 10px;
   font-family: "Helvetica Neue",Helvetica,Arial,Verdana,Sans-serif !important;
   font-size: 15px;
+
+}
+
+h2::first-letter {
+  text-transform: capitalize;
 }
 
 h3 {
@@ -510,6 +515,9 @@ h3 {
     color: darkgrey;
 }
 
+h3::first-letter {
+  text-transform: capitalize;
+}
 h4 {
   margin-top: -20px;
   color: dimgrey;
